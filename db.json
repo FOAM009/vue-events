@@ -32,6 +32,39 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "education",
+      "title": "Vue Workshop",
+      "description": "Learn Vue.js 3 with TypeScript hands-on.",
+      "location": "Chiang Mai",
+      "date": "August 1, 2025",
+      "time": "09:00",
+      "petsAllowed": false,
+      "organizer": "Aj. Vue Dee"
+    },
+    {
+      "id": 2233445,
+      "category": "health",
+      "title": "Community Yoga Day",
+      "description": "Join a relaxing yoga session in the park.",
+      "location": "Lumphini Park",
+      "date": "August 15, 2025",
+      "time": "07:30",
+      "petsAllowed": true,
+      "organizer": "Yogi Mai"
+    },
+    {
+      "id": 3344556,
+      "category": "environment",
+      "title": "Tree Planting Drive",
+      "description": "Help us plant 100 new trees in the city.",
+      "location": "Bangkok Green Zone",
+      "date": "September 10, 2025",
+      "time": "08:00",
+      "petsAllowed": false,
+      "organizer": "Green Earth Group"
     }
   ]
 }
